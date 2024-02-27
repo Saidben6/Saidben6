@@ -1,10 +1,10 @@
 # Hello, I'm Said Benaddi 👋
 
-I'm a sophomore at Northern Virginia Community College, majoring in Computer Science. I am keenly interested in software engineering and front-end development and aim to transform my passion into my career.
+I'm a sophomore at Northern Virginia Community College, majoring in Computer Science. I am keenly interested in Cybersecurity and front-end development and aim to transform my passion into my career.
 
 ## 🏫 Education
 
-I'm pursuing my studies at Northern Virginia Community College with a GPA of 3.4. I'm preparing for an exciting journey as I will transfer to Virginia Commonwealth University to deepen my Computer Science knowledge further.
+I'm pursuing my studies at Northern Virginia Community College with a GPA of 3.4. I'm preparing for an exciting journey as I will transfer to George Mason university to deepen my Cybersecurity knowledge further.
 
 ## 💼 Experience
 
